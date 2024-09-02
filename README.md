@@ -1,5 +1,6 @@
 # Zotero Better-BibTex to Overleaf Local Sync
 
+**This fork is made to adapt the plugin by [vantezzen](https://github.com/vantezzen/zotero-better-bibtex-to-overleaf) to work with the selfhosted overleaf by [Medical University of Graz](https://medunigraz.at)**
 This browser extension allows syncing your Zotero library with your Overleaf project using the local sync feature of [Zotero Better-BibTeX](https://retorque.re/zotero-better-bibtex/).
 
 ## Development
